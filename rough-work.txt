@@ -1,0 +1,19 @@
+creativity points and connections
+source file & network calls data searches
+network call's JS call stacks
+debugging with breakpints
+Temporary code patching
+intercept JS objects
+
+Browser's Web Storages and Sessions
+
+
+deofuscation
+simplifying compiled code
+
+Fundamentals of JS, Networks calls concepts like headers 
+
+curiosity and experimentations
+
+burp suite 
+postman
